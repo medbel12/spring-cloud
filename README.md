@@ -44,10 +44,10 @@ L'architecture micro-services est composée des éléments suivants :
 
 # Vidéos de Référence
 ## Première partie : Customer-Service, Inventory-Service, Spring Cloud Gateway, Eureka Discovery
-Vidéo 1 - YouTube
+Vidéo 1 - https://www.youtube.com/watch?v=IhNxrE5tlXs 
 
 ## Deuxième partie : Billing-Service avec OpenFeign Rest Client
-Vidéo 2 - YouTube
+Vidéo 2 -   https://www.youtube.com/watch?v=jGvkVGCUf-w
 
 ## Troisième partie : Création d'un Client Angular
-Vidéo 3 - YouTube
+Vidéo 3 - https://www.youtube.com/watch?v=iMCjDRUXoeM
