@@ -41,3 +41,13 @@ L'architecture micro-services est composée des éléments suivants :
 1. Cloner le dépôt Git :
    ```bash
    git clone https://github.com/medbel12/spring-cloud.git
+
+# Vidéos de Référence
+## Première partie : Customer-Service, Inventory-Service, Spring Cloud Gateway, Eureka Discovery
+Vidéo 1 - YouTube
+
+## Deuxième partie : Billing-Service avec OpenFeign Rest Client
+Vidéo 2 - YouTube
+
+## Troisième partie : Création d'un Client Angular
+Vidéo 3 - YouTube
